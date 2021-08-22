@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/DerekBar90?template=classic&config.timezone=America%2FNew_York)
+![Metrics](https://raw.githubusercontent.com/derekbar90/DerekBar90/main/github-metrics.svg)
