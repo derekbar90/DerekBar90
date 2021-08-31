@@ -18,9 +18,9 @@ jobs:
           # Options
           user: DerekBar90
           template: classic
-          base: header, community, repositories, metadata
+          base: header, activity, community, repositories, metadata
           config_timezone: America/New_York
-          plugin_activity: yes
+          plugin_activity: no
           plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_activity_limit: 5
